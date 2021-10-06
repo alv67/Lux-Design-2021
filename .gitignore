@@ -25,3 +25,6 @@ tests/bots
 
 server/keys
 server/.env
+
+# remove submission files
+submission.tar.gz
